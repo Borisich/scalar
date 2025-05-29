@@ -1,5 +1,20 @@
 # @scalar/components
 
+## 0.14.3
+
+### Patch Changes
+
+- cad6277: feat(themes)!: migrate to tailwind v4
+- cedca9b: feat(components): export file upload component
+- Updated dependencies [1e87feb]
+- Updated dependencies [cad6277]
+  - @scalar/oas-utils@0.4.0
+  - @scalar/themes@0.13.0
+  - @scalar/code-highlight@0.1.1
+  - @scalar/use-hooks@0.2.2
+  - @scalar/icons@0.4.2
+  - @scalar/use-toasts@0.8.0
+
 ## 0.14.2
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @scalar/aspnetcore
 
+## 2.4.5
+
+### Patch Changes
+
+- 28feaf8: feat(Scalar.AspNetCore): add support for code samples
+- Updated dependencies [f5413ba]
+- Updated dependencies [1e87feb]
+- Updated dependencies [0113b84]
+- Updated dependencies [cad6277]
+  - @scalar/api-reference@1.31.0
+
 ## 2.4.4
 
 ### Patch Changes

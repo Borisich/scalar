@@ -1,5 +1,34 @@
 # @scalar/api-reference
 
+## 1.31.0
+
+### Minor Changes
+
+- 1e87feb: refactor!: use dereferenced documents as a content source
+
+### Patch Changes
+
+- f5413ba: fix(api-reference): add tailwind plugin to standalone vite config
+- 0113b84: fix(api-reference): add id prefix for useId
+- cad6277: feat(themes)!: migrate to tailwind v4
+- Updated dependencies [1e87feb]
+- Updated dependencies [1e87feb]
+- Updated dependencies [0113b84]
+- Updated dependencies [cad6277]
+- Updated dependencies [cedca9b]
+  - @scalar/openapi-parser@0.13.0
+  - @scalar/api-client@2.5.0
+  - @scalar/oas-utils@0.4.0
+  - @scalar/themes@0.13.0
+  - @scalar/code-highlight@0.1.1
+  - @scalar/components@0.14.3
+  - @scalar/use-hooks@0.2.2
+  - @scalar/icons@0.4.2
+  - @scalar/openapi-types@0.3.1
+  - @scalar/snippetz@0.3.0
+  - @scalar/types@0.2.1
+  - @scalar/use-toasts@0.8.0
+
 ## 1.30.0
 
 ### Patch Changes
